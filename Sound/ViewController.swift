@@ -68,4 +68,6 @@ class ViewController: UIViewController {
              guitarButton.setImage(UIImage(named: "guitarImage"), for: .normal)}
     @IBAction func touchUpCymbalButton(){
              cymbalButton.setImage(UIImage(named: "cymbalImage"), for: .normal)}
+    
+    
 }
